@@ -1,0 +1,14 @@
+﻿  cubo.c
+C:\Users\bruno\OneDrive\Documents\Programas_ComputacaoGrafica\TrabalhoComputacaoGrafica\cubo.c(28,19): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\bruno\OneDrive\Documents\Programas_ComputacaoGrafica\TrabalhoComputacaoGrafica\cubo.c(29,19): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\bruno\OneDrive\Documents\Programas_ComputacaoGrafica\TrabalhoComputacaoGrafica\cubo.c(31,15): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\bruno\OneDrive\Documents\Programas_ComputacaoGrafica\TrabalhoComputacaoGrafica\cubo.c(31,21): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\bruno\OneDrive\Documents\Programas_ComputacaoGrafica\TrabalhoComputacaoGrafica\cubo.c(31,27): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\bruno\OneDrive\Documents\Programas_ComputacaoGrafica\TrabalhoComputacaoGrafica\cubo.c(86,26): warning C4013: 'time' undefined; assuming extern returning int
+C:\Users\bruno\OneDrive\Documents\Programas_ComputacaoGrafica\TrabalhoComputacaoGrafica\cubo.c(102,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\bruno\OneDrive\Documents\Programas_ComputacaoGrafica\TrabalhoComputacaoGrafica\cubo.c(119,45): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\bruno\OneDrive\Documents\Programas_ComputacaoGrafica\TrabalhoComputacaoGrafica\cubo.c(120,45): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\bruno\OneDrive\Documents\Programas_ComputacaoGrafica\TrabalhoComputacaoGrafica\cubo.c(121,45): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\bruno\OneDrive\Documents\Programas_ComputacaoGrafica\TrabalhoComputacaoGrafica\cubo.c(132,30): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(void)'
+C:\Users\bruno\OneDrive\Documents\Programas_ComputacaoGrafica\TrabalhoComputacaoGrafica\cubo.c(141,8): warning C4013: '_getch' undefined; assuming extern returning int
+  TrabalhoComputacaoGrafica.vcxproj -> C:\Users\bruno\OneDrive\Documents\Programas_ComputacaoGrafica\TrabalhoComputacaoGrafica\x64\Debug\TrabalhoComputacaoGrafica.exe

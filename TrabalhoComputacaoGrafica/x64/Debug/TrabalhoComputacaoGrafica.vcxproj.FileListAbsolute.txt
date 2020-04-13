@@ -1,0 +1,2 @@
+C:\Users\bruno\OneDrive\Documents\Programas_ComputacaoGrafica\TrabalhoComputacaoGrafica\x64\Debug\TrabalhoComputacaoGrafica.exe
+C:\Users\bruno\OneDrive\Documents\Programas_ComputacaoGrafica\TrabalhoComputacaoGrafica\x64\Debug\TrabalhoComputacaoGrafica.pdb
