@@ -4,7 +4,7 @@
 #include <math.h>
 #include <stdio.h>
 #include <string.h>
-//Teste github 2
+
 void displayCube();
 void keys(int key, int x, int y);
 void mouseWheel(int wheel, int direction, int x, int y);
