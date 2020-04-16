@@ -1,3 +1,11 @@
+# Alunos: 
+
+# Bruno Pimentel Struminski, 
+
+# Giovanni Fernandes Mudrek, 
+
+# Lucas Dionatan Torres
+
 # TECLAS DE ATALHO
 
 F1 = transladar no eixo x negativo
