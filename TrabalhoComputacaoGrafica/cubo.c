@@ -12,7 +12,7 @@ void mouseWheel(int wheel, int direction, int x, int y);
 double rotatex = 0;
 double rotatey = 0;
 double zoom = 0.5;
-float color[100][100];
+float color[1000][1000];
 float values[10000][10000];
 int pos[10000][10000];
 int faces = 0;
